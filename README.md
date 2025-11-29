@@ -86,11 +86,9 @@ AI-powered content generation platform with RAG-based architecture and vector se
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
-![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushkarsingh32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsingh32&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsingh32&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
