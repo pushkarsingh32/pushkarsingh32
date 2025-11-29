@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushkarsingh32)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pushkarkathayat.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pushkarsingh32@yahoo.in)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@pushkarkathayat.com)
 
 ---
 
@@ -122,7 +122,7 @@ I'm actively seeking **Full Stack Developer** positions where I can:
 
 - **Portfolio:** [pushkarkathayat.com](https://pushkarkathayat.com)
 - **LinkedIn:** [linkedin.com/in/pushkarsingh32](https://linkedin.com/in/pushkarsingh32)
-- **Email:** pushkarsingh32@yahoo.in
+- **Email:** contact@pushkarkathayat.com
 - **GitHub:** You're already here! 😊
 
 💡 **Open to opportunities** - Feel free to reach out if you're hiring full stack developers!
