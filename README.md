@@ -88,7 +88,7 @@ AI-powered content generation platform with RAG-based architecture and vector se
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsingh32&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsingh32&layout=compact&theme=radical)](https://github.com/pushkarsingh32)
 
 ---
 
