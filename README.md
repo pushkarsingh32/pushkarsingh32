@@ -97,19 +97,6 @@ AI-powered content generation platform with RAG-based architecture and vector se
 
 ---
 
-## 💼 What I'm Looking For
-
-I'm actively seeking **Full Stack Developer** positions where I can:
-- Build scalable SaaS applications with modern tech stacks
-- Work with Next.js, React, TypeScript, and Node.js
-- Contribute to product strategy and architecture decisions
-- Collaborate with talented teams on challenging problems
-- Ship features that impact real users
-
-**Preferred Stack:** Next.js, React, TypeScript, Node.js, PostgreSQL, Redis, AWS/Cloudflare
-
----
-
 ## 📫 Let's Connect
 
 - **Portfolio:** [pushkarkathayat.com](https://pushkarkathayat.com)
