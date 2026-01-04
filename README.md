@@ -140,22 +140,6 @@ Platform curating **988+ open-source projects** for indie hackers and makers wit
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkarsingh32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/pushkarsingh32)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsingh32&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/pushkarsingh32)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pushkarsingh32&theme=tokyonight&hide_border=true)](https://github.com/pushkarsingh32)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=pushkarsingh32&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/pushkarsingh32)
-
-</div>
-
----
-
 ## 💼 Professional Experience
 
 - **Full Stack Developer (Contract)** - Building scalable web applications (Jan 2024 - Present)
