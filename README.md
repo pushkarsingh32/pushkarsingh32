@@ -23,17 +23,6 @@ Full Stack Developer with **4+ years of experience** building and shipping produ
 
 ---
 
-## 🌍 Open Source Contributions
-
-### [OpenClaw](https://github.com/openclaw/openclaw) — Open-source AI agent framework
-
-| PR | Description | Status |
-|---|---|---|
-| [#30358](https://github.com/openclaw/openclaw/pull/30358) | **fix(discord): support applied_tags for forum thread creation** — Added `appliedTags` parameter for forum/media thread creation across types, API layer, agent tools, and action handlers with comprehensive unit tests | ✅ Merged |
-| [#30266](https://github.com/openclaw/openclaw/pull/30266) | **fix(slack): wrap session key in backticks to prevent emoji shortcode parsing** — Fixed session key rendering in Slack usage footer to prevent colon-delimited segments from being parsed as emoji shortcodes | ✅ Merged |
-
----
-
 ## 💻 Tech Stack
 
 ### Frontend (4+ years)
