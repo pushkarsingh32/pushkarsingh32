@@ -19,6 +19,18 @@ Full Stack Developer with **4+ years of experience** building and shipping produ
 - 🎯 Passionate about: **Scalable architecture, clean code, AI agents with minimal hallucination**
 - 📊 Shipped: **8+ live production applications** from scratch
 - 🏥 Recent: **HIPAA-compliant Medical Imaging Platform** with Django + Next.js + AI
+- 🌍 Open Source: **Contributor to [OpenClaw](https://github.com/openclaw/openclaw)** — merged PRs across Discord & Slack integrations
+
+---
+
+## 🌍 Open Source Contributions
+
+### [OpenClaw](https://github.com/openclaw/openclaw) — Open-source AI agent framework
+
+| PR | Description | Status |
+|---|---|---|
+| [#30358](https://github.com/openclaw/openclaw/pull/30358) | **fix(discord): support applied_tags for forum thread creation** — Added `appliedTags` parameter for forum/media thread creation across types, API layer, agent tools, and action handlers with comprehensive unit tests | ✅ Merged |
+| [#30266](https://github.com/openclaw/openclaw/pull/30266) | **fix(slack): wrap session key in backticks to prevent emoji shortcode parsing** — Fixed session key rendering in Slack usage footer to prevent colon-delimited segments from being parsed as emoji shortcodes | ✅ Merged |
 
 ---
 
@@ -69,6 +81,7 @@ Full Stack Developer with **4+ years of experience** building and shipping produ
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-CC0000?style=flat-square&logo=redis&logoColor=white)
 
@@ -131,12 +144,12 @@ Platform curating **988+ open-source projects** for indie hackers and makers wit
 - ✅ Achieved **85% code coverage** with comprehensive testing (pytest, Jest, Cypress)
 - ✅ Deployed **multi-tenant architectures** with proper data isolation and scalability
 
-### Leadership & Best Practices
+### Open Source & Leadership
+- ✅ **Contributor to [OpenClaw](https://github.com/openclaw/openclaw)** — merged PRs for Discord forum tag support and Slack rendering fixes
 - ✅ Led development teams using **Agile/Scrum** methodologies
 - ✅ Built **microservices architectures** with Docker and Kubernetes
 - ✅ Established **CI/CD pipelines** with GitHub Actions for automated deployment
 - ✅ Published **4 Chrome extensions** on Chrome Web Store
-- ✅ Contributed to **open-source** with production-grade Python tools
 
 ---
 
