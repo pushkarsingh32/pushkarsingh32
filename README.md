@@ -19,7 +19,7 @@ Full Stack Developer with **4+ years of experience** building and shipping produ
 - 🎯 Passionate about: **Scalable architecture, clean code, AI agents with minimal hallucination**
 - 📊 Shipped: **8+ live production applications** from scratch
 - 🏥 Recent: **HIPAA-compliant Medical Imaging Platform** with Django + Next.js + AI
-- 🌍 Open Source: **Contributor to [OpenClaw](https://github.com/openclaw/openclaw)** — merged PRs across Discord & Slack integrations
+- 🌍 Open Source: **Contributor to [OpenClaw](https://github.com/openclaw/openclaw)** — merged PRs for [Discord forum tag support](https://github.com/openclaw/openclaw/pull/30358) & [Slack rendering fixes](https://github.com/openclaw/openclaw/pull/30266)
 
 ---
 
@@ -134,7 +134,7 @@ Platform curating **988+ open-source projects** for indie hackers and makers wit
 - ✅ Deployed **multi-tenant architectures** with proper data isolation and scalability
 
 ### Open Source & Leadership
-- ✅ **Contributor to [OpenClaw](https://github.com/openclaw/openclaw)** — merged PRs for Discord forum tag support and Slack rendering fixes
+- ✅ **Contributor to [OpenClaw](https://github.com/openclaw/openclaw)** — merged PRs for [Discord forum tag support (#30358)](https://github.com/openclaw/openclaw/pull/30358) and [Slack rendering fixes (#30266)](https://github.com/openclaw/openclaw/pull/30266)
 - ✅ Led development teams using **Agile/Scrum** methodologies
 - ✅ Built **microservices architectures** with Docker and Kubernetes
 - ✅ Established **CI/CD pipelines** with GitHub Actions for automated deployment
